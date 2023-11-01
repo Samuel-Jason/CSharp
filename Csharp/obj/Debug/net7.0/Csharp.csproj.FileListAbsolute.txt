@@ -1,0 +1,14 @@
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\Csharp\Csharp\obj\Debug\net7.0\ref\Csharp.dll
